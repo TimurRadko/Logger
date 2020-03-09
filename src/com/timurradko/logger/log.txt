@@ -1,0 +1,23 @@
+2020.03.09 at 11:47:57 INFO: System is already running
+2020.03.09 at 11:47:57 WARNING: Attention warning zone
+2020.03.09 at 11:47:57 ERROR: System made the ERROR
+2020.03.09 at 11:47:57 ERROR: / by zero
+2020.03.09 at 11:47:57 WARNING: The system work slow
+2020.03.09 at 11:47:57 WARNING: Next Object is broken or not available com.timurradko.logger.BasicLogger@1d56ce6a.
+Breaking the program that still doesn't work 
+2020.03.09 at 11:49:14 INFO: System is already running
+2020.03.09 at 11:49:14 WARNING: Attention warning zone
+2020.03.09 at 11:49:14 ERROR: System made the ERROR
+2020.03.09 at 11:49:14 ERROR: / by zero
+2020.03.09 at 11:49:14 WARNING: The system work slow
+2020.03.09 at 11:49:14 WARNING: Next Object is broken or not available com.timurradko.logger.BasicLogger@1d56ce6a.
+Breaking the program that still doesn't work 
+2020.03.09 at 11:50:21 INFO: System is already running
+2020.03.09 at 11:50:21 WARNING: Attention warning zone
+2020.03.09 at 11:50:21 ERROR: System made the ERROR
+2020.03.09 at 11:50:21 ERROR: / by zero
+2020.03.09 at 11:50:21 WARNING: The system work slow
+2020.03.09 at 11:50:21 WARNING: Next Object is broken or not available com.timurradko.logger.BasicLogger@1d56ce6a.
+Breaking the program that still doesn't work 
+2020.03.09 at 12:02:54 INFO: System is already running
+2020.03.09 at 12:02:54 INFO: System is already running
